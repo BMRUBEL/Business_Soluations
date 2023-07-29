@@ -1,0 +1,36 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+// @import 'bootstrap/scss/bootstrap';
+
+@import '../../public/admin/plugins/fontawesome-free/css/all.min.css';
+@import '../../public/admin/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css';
+@import '../../public/admin/plugins/icheck-bootstrap/icheck-bootstrap.min.css';
+@import '../../public/admin/plugins/jqvmap/jqvmap.min.css';
+@import '../../public/admin/dist/css/adminlte.min.css';
+@import '../../public/admin/plugins/overlayScrollbars/css/OverlayScrollbars.min.css';
+@import '../../public/admin/plugins/daterangepicker/daterangepicker.css';
+@import '../../public/admin/plugins/summernote/summernote-bs4.min.css';
+ 
+// login page
+@import '../../public/admin/plugins/fontawesome-free/css/all.min.css';
+@import '../../public/admin/plugins/icheck-bootstrap/icheck-bootstrap.min.css';
+@import '../../public/admin/dist/css/adminlte.min.css';
+
+
+ // website bootstrap
+ 
+@import '../../public/website/vendor/aos/aos.css';
+@import '../../public/website/vendor/bootstrap/css/bootstrap.min.css';
+@import '../../public/website/vendor/bootstrap-icons/bootstrap-icons.css';
+@import '../../public/website/vendor/boxicons/css/boxicons.min.css';
+@import '../../public/website/vendor/glightbox/css/glightbox.min.css';
+@import '../../public/website/vendor/remixicon/remixicon.css';
+@import '../../public/website/vendor/swiper/swiper-bundle.min.css';
+
+// maintemplate
+@import '../../public/website/css/style.css';
